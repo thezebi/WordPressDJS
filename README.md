@@ -1,2 +1,3 @@
 # WordPress
-Ovaj REP sluzi za vezbanje
+Ovaj REPO sluzi za vezbanje
+Žebi is in the hous
